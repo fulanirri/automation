@@ -13,8 +13,8 @@ Opción a git, se puede descargar un zip https://github.com/fulanirri/automation
 hay que **descomprimirlo** para poder hacer el import.
 
 ## Hacer un import en eclipse, con los siguientes pasos:
-1. Abren Eclipse -> File -> Import
-2. En el menu que se despliega , buscar "Existing Maven Projects"
+1. Abrir Eclipse -> File -> Import
+2. En el menu que se despliega , buscar "Existing Maven Projects" despues darle siguente
 3. Donde dice Root Directory click en el boton browse
 4. agregar la carpeta donde clonaron y/o descomprimieron el repo
 5. Click en finish y ya esta el ejemplo en eclipse
