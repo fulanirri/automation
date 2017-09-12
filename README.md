@@ -1,4 +1,4 @@
-# automation
+# Automation ejemplo
 Para poder ejecutar el ejercicio primero asegurarse de tener lo siguiente:
 
 1. Java SDK 8: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
@@ -11,7 +11,7 @@ comando : git clone https://github.com/fulanirri/automation.git
 Opción a git, se puede descargar un zip https://github.com/fulanirri/automation/archive/master.zip
 hay que *descomprimirlo* para poder hacer el import.
 
-# hacer un import en eclipse, con los siguientes pasos:
+# Hacer un import en eclipse, con los siguientes pasos:
 1. Abren Eclipse -> File -> Import
 2. En el menu que se despliega , buscar "Existing Maven Projects"
 3. Donde dice Root Directory click en el boton browse
