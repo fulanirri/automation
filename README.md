@@ -10,7 +10,7 @@ Una vez que tiene todo instalado se tiene que clonar el repo con git
 comando :git clone https://github.com/fulanirri/automation.git
 
 Opción a git, se puede descargar un zip https://github.com/fulanirri/automation/archive/master.zip
-hay que *descomprimirlo* para poder hacer el import.
+hay que **descomprimirlo** para poder hacer el import.
 
 ## Hacer un import en eclipse, con los siguientes pasos:
 1. Abren Eclipse -> File -> Import
@@ -21,5 +21,5 @@ hay que *descomprimirlo* para poder hacer el import.
 
 ## Para poder correr el caso:
 buscar la clase Escenarios: que esta en src/main/java/ dentro del package com.globant.automation.practicas
-Abrir la clase con doble click y luego click al boton  de play ,*verde con blanco*, que esta en la barra de herramientas superior.
+Abrir la clase con doble click y luego click al boton  de play ,**verde con blanco**, que esta en la barra de herramientas superior.
 
