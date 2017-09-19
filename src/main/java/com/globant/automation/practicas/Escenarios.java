@@ -13,7 +13,7 @@ public class Escenarios
     {        
        WebDriver driver = new FirefoxDriver();
        LoginPage page = new LoginPage(driver);
-       page.login("voluntario-1", "123456");
+       page.login("","");
        driver.close();    
     }
    
